@@ -20,7 +20,7 @@ function makeInt(n) {
   parseInt(n, 10)
   return n
   function makeInt(n) {
-    return 0
+    return (n * 0)
   }
 }
 function preserveDecimal(n) {
